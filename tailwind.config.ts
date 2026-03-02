@@ -88,6 +88,9 @@ export default {
 					},
 				},
 			}),
+			fontFamily: {
+				sans: ['"DM Sans Variable"', 'system-ui', 'sans-serif'],
+			}
 		},
 	},
 } satisfies Config;
